@@ -1,3 +1,2 @@
-git add up_to_date
-git commit -m 
-git push
+$git add up_to_date
+$git pull
